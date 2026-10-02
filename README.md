@@ -4,6 +4,14 @@ This repository contains an embedded calculator project developed in C using Kei
 
 The project was developed as part of my ELEC3662 embedded systems coursework and focuses on low-level embedded programming, modular firmware design, hardware interfacing, debugging and expression evaluation.
 
+## Hardware Implementation
+
+The calculator was implemented on a TM4C123GH6PM microcontroller with a physical matrix keypad and LCD display on a breadboard-based hardware setup.
+
+<img src="Calculator%20hardware.png" alt="TM4C123GH6PM embedded calculator hardware setup" width="700">
+
+*Physical implementation of the calculator, showing the TM4C123GH6PM development board, matrix keypad and LCD interface.*
+
 ## Project Overview
 
 The aim of the project was to design and implement a microcontroller-based calculator capable of performing basic arithmetic operations:
